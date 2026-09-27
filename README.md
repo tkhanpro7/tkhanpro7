@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tamim Khan</h1>
 <h3 align="center">A passionate full stack developer from BD</h3>
 
-- 🔭 I’m currently working on **custom component architecture and state management, as well as AI-integrated e-commerce platforms.**
+- 🔭 I’m currently working on **web applications using React, Next.js, TypeScript, and Tailwind CSS to build e-commerce platforms and responsive portfolio sites**
 
 - 🌱 I’m currently learning **Javascript,react,next.js,Typescript,Tailwind CSS**
 
